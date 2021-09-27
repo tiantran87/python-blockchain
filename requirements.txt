@@ -1,0 +1,17 @@
+Dependencies
+PHP must be installed on operating system (any version, 5 or 7). No need to know any PHP
+
+Clone the hd-wallet-derive tool:
+    - Run Git Bash as Administrator 
+    - git clone https://github.com/dan-da/hd-wallet-derive
+    - cd hd-wallet-derive
+    - curl https://getcomposer.org/installer -o installer.php
+    - php installer.php
+    - php composer.phar install
+
+
+bit Python Bitcoin library:
+    - $ pip install bit
+
+web3.py Python Ethereum library:
+    - $ pip install web3
